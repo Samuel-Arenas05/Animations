@@ -273,6 +273,9 @@ footer .autor a:hover{
     }
 
     .overlay img{
-        width: 40vh;
+        width: 50%;
     }
+    .overlay .descripcion{
+   font-size: 10px
+}
 }
