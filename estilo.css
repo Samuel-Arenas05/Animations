@@ -269,7 +269,7 @@ footer .autor a:hover{
     }
 
     .overlay video{
-        width: 40vh;
+        width: 300px;
     }
 
     .overlay img{
@@ -277,7 +277,7 @@ footer .autor a:hover{
     }
 
     .overlay .descripcion{
-       font-size: 10px;
+       font-size: 5px;
     }
 
 }
