@@ -267,4 +267,8 @@ footer .autor a:hover{
         font-size: 15px;
         line-height: 40px;
     }
+    
+    .overlay video{
+        width: 300px;
+    }
 }
