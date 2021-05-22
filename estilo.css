@@ -271,4 +271,8 @@ footer .autor a:hover{
     .overlay video{
         width: 60vh;
     }
+
+    .overlay img{
+        width: 60vh;
+    }
 }
