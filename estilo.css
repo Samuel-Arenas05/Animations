@@ -142,7 +142,7 @@ header .categorias a.activo{
 }
 
 .overlay video{
-    width: 700px;
+    width: 100vh;
 }
 
 .overlay img{
@@ -267,8 +267,8 @@ footer .autor a:hover{
         font-size: 15px;
         line-height: 40px;
     }
-    
+
     .overlay video{
-        width: 300px;
+        width: 60vh;
     }
 }
