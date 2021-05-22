@@ -269,11 +269,11 @@ footer .autor a:hover{
     }
 
     .overlay video{
-        width: 60vh;
+        width: 300px;
     }
 
     .overlay img{
-        width: 50%;
+        width: 300px;
     }
     .overlay .descripcion{
    font-size: 10px
